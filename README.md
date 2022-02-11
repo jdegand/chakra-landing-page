@@ -10,8 +10,6 @@
 
 ## Overview
 
-[Live Link](https://jdegand.github.io/chakra-landing-page)
-
 ![](chakra-landing-light.png)
 ![](chakra-landing-dark.png)
 
