@@ -2,7 +2,7 @@
   "name": "chakra-landing-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jdegand.github.io",
+  "homepage": "https://jdegand.github.io/chakra-landing-page",
   "dependencies": {
     "@chakra-ui/react": "^1.8.1",
     "@emotion/react": "^11.7.1",
