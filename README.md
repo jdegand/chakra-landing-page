@@ -9,17 +9,13 @@
 
 ## Overview
 
-[Live Link](https://jdegand.github.io/chakra-landing-page)
-
-Note: Unsplash source has been deprecated so the image link no longer works.
+![Light](screenshots/chakra-landing-light.png)
 
 ***
 
-![Light](chakra-landing-light.png)
+![Dark](screenshots/chakra-landing-dark.png)
 
 ***
-
-![Dark](chakra-landing-dark.png)
 
 ### Built With
 
@@ -34,6 +30,8 @@ Note: Unsplash source has been deprecated so the image link no longer works.
 - Used the create-react-app chakra template.
 - Putting the CSS inside the components etc does bloat the code and can get in the way of reasoning about the code. 
 - Almost have to indent and put all props on separate lines.
+- Unsplash source was used for main image and it had to be replaced after Unsplash changed APIs.
+- I added a random image from `lorempicker`.
 
 ## Useful Resources
 
