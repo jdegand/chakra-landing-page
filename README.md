@@ -11,7 +11,7 @@
 
 [Live Link](https://jdegand.github.io/chakra-landing-page)
 
-Note: Original image used has had its link change or has been removed from Unsplash.
+Note: Unsplash source has been deprecated so the image link no longer works.
 
 ***
 
