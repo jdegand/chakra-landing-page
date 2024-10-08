@@ -16,7 +16,7 @@ export default function Landing(props) {
       <Hero
         title="Adapted Chakra Landing Page Tutorial"
         subtitle="Used Create-React-App Chakra Template"
-        image="https://source.unsplash.com/collection/404339/800x600"
+        image="https://loremflickr.com/800/600"
         ctaText="Create your account now"
         ctaLink="/signup"
       />

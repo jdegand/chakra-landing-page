@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import { Box, Flex, Text, Button, Stack } from "@chakra-ui/react"
+import { Box, Flex, Text, Button } from "@chakra-ui/react"
 import { ColorModeSwitcher } from '../ColorModeSwitcher';
 import Logo from "./Logo";
 
@@ -32,7 +32,7 @@ const Header = (props) => {
       {...props}
     >
       <Flex align="center">
-       <Logo height={44} />
+        <Logo height={44} />
       </Flex>
 
       <Box
@@ -64,7 +64,7 @@ const Header = (props) => {
               Create Account
             </Button>
           </MenuItem>
-          <MenuItem><ColorModeSwitcher  /></MenuItem>
+          <MenuItem><ColorModeSwitcher /></MenuItem>
         </Flex>
       </Box>
     </Flex>
