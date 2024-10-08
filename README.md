@@ -5,15 +5,21 @@
 - [Overview](#overview)
   - [Built With](#built-with)
   - [Thoughts](#thoughts)
-- [Requirements](#requirements)
 - [Useful Resources](#useful-resources)
 
 ## Overview
 
 [Live Link](https://jdegand.github.io/chakra-landing-page)
 
-![](chakra-landing-light.png)
-![](chakra-landing-dark.png)
+Note: Original image used has had its link change or has been removed from Unsplash.
+
+***
+
+![Light](chakra-landing-light.png)
+
+***
+
+![Dark](chakra-landing-dark.png)
 
 ### Built With
 
